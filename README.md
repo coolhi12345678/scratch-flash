@@ -129,3 +129,5 @@ Consult your IDE's documentation to configure it for your newly-constructed copy
 If the source is building but the resulting .swf is producing runtime errors, your first course of action should be to
 download version 4.11 of the Flex SDK and try targeting that. The Apache foundation maintains an
 [installer](http://flex.apache.org/installer.html) that lets you select a variety of versions.
+
+[![Run on Repl.it](https://repl.it/badge/github/LLK/scratch-flash)](https://repl.it/github/LLK/scratch-flash)
